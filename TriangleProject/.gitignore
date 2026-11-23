@@ -1,0 +1,6 @@
+
+# compiled test programs (rebuilt from the source code)
+
+*.exe
+*.o
+*_test

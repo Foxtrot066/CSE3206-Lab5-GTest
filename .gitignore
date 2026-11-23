@@ -1,0 +1,4 @@
+# Compiled test programs
+*_test
+*.exe
+*.o
